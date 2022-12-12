@@ -29,7 +29,7 @@
     "scss-parser": "^1.0.3"
   },
   "peerDependencies": {
-    "node-sass": ">= ^4.11.0"
+    "node-sass": ">= 4.11.0"
   },
   "jest": {
     "testURL": "http://localhost/"
